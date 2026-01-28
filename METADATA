@@ -15,6 +15,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/OWASP/owasp-java-encoder.git"
-    version: "v1.3.1"
+    version: "27b5a8b2ef5291af7973257c6b3c4823e60a10e2"
+    closest_version: "v1.3.1"
   }
 }
